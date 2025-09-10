@@ -73,7 +73,7 @@ LearnChain.ai transforms education into a peer-driven, wisdom-centric ecosystem 
    - Compose sequences; drag blocks; define prerequisites and branching logic.
    - Adaptive suggestions based on learner profile and outcomes.
 6. **Proof-of-Learning**
-   - Record creation/mast 3; issue PoL entries with content hash, assessment data, and signatures.
+   - Record creation/mastery; issue PoL entries with content hash, assessment data, and signatures.
    - Anchor to Polygon via merkle root or per-record hash; store tx id.
 7. **Rate & Review**
    - Rate 1–5, comment; display aggregate rating; anti-spam throttling; reputation-weighted scores.
